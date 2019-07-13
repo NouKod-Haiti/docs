@@ -1,7 +1,9 @@
 {
   "docs": {
-    "Javascript": ["doc1"],
-    "First Category": ["doc2"],
+    "Welcome": ["doc1"],
+    "Getting Started": [
+      "doc2"
+    ],
     "Second Category": ["doc3"]
   },
   "docs-other": {

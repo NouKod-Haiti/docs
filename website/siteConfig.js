@@ -32,14 +32,14 @@ const siteConfig = {
   title: 'NouKòd', // Title for your website.
   tagline: 'Quick reference Guide',
   url: 'https://noukod-haiti.github.io', // Your website URL
-  baseUrl: '/docs', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'noukod',
-  organizationName: 'facebook',
+  projectName: 'noukod-haiti.github.io',
+  organizationName: 'noukod-haiti',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
