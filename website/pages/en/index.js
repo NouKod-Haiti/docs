@@ -61,9 +61,9 @@ class HomeSplash extends React.Component {
           <div className="section promoSection">
             <div className="promoRow">
               <div className="pluginRowBlock">
-                <Button href="#try">Try It Out</Button>
-                <Button href={docUrl('doc1.html')}>Example Link</Button>
-                <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+                <Button href={docUrl('welcome.html')}>Get Started</Button>
+                <Button href={docUrl('contributing.html')}>How to Contribute</Button>
+                {/* <Button href={docUrl('doc2.html')}>Example Link 2</Button> */}
               </div>
             </div>
           </div>
@@ -99,7 +99,7 @@ class Index extends React.Component {
             {[
               {
                 content:
-                  'Each new Docusaurus project has **randomly-generated** theme colors.',
+                  'Each nlorenm adf ad aomdpfka dk , sDPINASFKV AS FPVKA SF.',
                 image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
                 imageAlign: 'right',
                 title: 'Randomly Generated Theme Colors',

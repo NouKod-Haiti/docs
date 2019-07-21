@@ -1,7 +1,6 @@
 {
   "docs": {
-    "Welcome": [ 
-      "doc1", 
+    "Welcome": [
       "welcome",
       "contributing"
     ],
@@ -15,7 +14,6 @@
     "Project Resources": [
       "js",
       "react",
-      "angular",
       "devops"
     ]
   },
