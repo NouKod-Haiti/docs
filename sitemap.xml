@@ -8,9 +8,18 @@
 <url> <loc>https://noukod-haiti.github.io/blog/2017/09/25/testing-rss</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://noukod-haiti.github.io/blog/2017/04/10/blog-post-two</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://noukod-haiti.github.io/blog/2016/03/11/blog-post</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/angular</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/angular" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/ci</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/ci" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/contributing</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/contributing" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/devops</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/devops" /> </url>
 <url> <loc>https://noukod-haiti.github.io/docs/doc1</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/doc1" /> </url>
 <url> <loc>https://noukod-haiti.github.io/docs/doc2</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/doc2" /> </url>
 <url> <loc>https://noukod-haiti.github.io/docs/doc3</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/doc3" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/environment</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/environment" /> </url>
 <url> <loc>https://noukod-haiti.github.io/docs/doc4</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/doc4" /> </url>
 <url> <loc>https://noukod-haiti.github.io/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/doc5" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/git</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/git" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/js</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/js" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/react</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/react" /> </url>
+<url> <loc>https://noukod-haiti.github.io/docs/welcome</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noukod-haiti.github.io/docs/welcome" /> </url>
 </urlset>
