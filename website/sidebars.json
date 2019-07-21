@@ -1,10 +1,23 @@
 {
   "docs": {
-    "Welcome": ["doc1"],
-    "Getting Started": [
-      "doc2"
+    "Welcome": [ 
+      "doc1", 
+      "welcome",
+      "contributing"
     ],
-    "Second Category": ["doc3"]
+    "Getting Started": [
+      "environment"
+    ],
+    "Concepts": [
+      "git",
+      "ci"
+    ],
+    "Project Resources": [
+      "js",
+      "react",
+      "angular",
+      "devops"
+    ]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
