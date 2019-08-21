@@ -46,9 +46,11 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'welcome', label: 'Docs'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
+    { href: 'https://github.com/NouKod-Haiti/noukod-haiti.github.io', label: 'GitHub' },
+
   ],
 
   // If you have users set above, you add it here:
@@ -106,15 +108,15 @@ const siteConfig = {
   ogImage: 'https://noukod.com/wp-content/uploads/2017/11/NK-simple-logo-1.png',
   twitterImage: 'https://noukod.com/wp-content/uploads/2017/11/NK-simple-logo-1.png',
 
-  // Show documentation's last contributor's name.
-  // enableUpdateBy: true,
+  //Show documentation's last contributor's name.
+  enableUpdateBy: true,
 
   // Show documentation's last update time.
   // enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
+    repoUrl: 'https://github.com/facebook/test-site',
 };
 
 module.exports = siteConfig;
