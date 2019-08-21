@@ -6,7 +6,7 @@ sidebar_label: How To Contribute
 
 # Contributing to Noukod
 
-Thank you for your interest in contributing to the Noukod website! From commenting on and triaging issues, to reviewing and sending Pull Requests, all contributions are welcome. We aim to build a vibrant and inclusive [ecosystem of partners, core contributors, and community](https://github.com/facebook/react-native/blob/master/ECOSYSTEM.md) that goes beyond the main React Native GitHub repository.
+Thank you for your interest in contributing to the Noukod website! From commenting on and triaging issues, to reviewing and sending Pull Requests, all contributions are welcome. We aim to build a vibrant and inclusive ecosystem of partners, core contributors, and community that goes beyond the main Noukòd GitHub repository.
 
 The [Open Source Guides](https://opensource.guide/) website has a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project. Contributors and people new to open source alike will find the following guides especially useful:
 
@@ -20,7 +20,7 @@ As a reminder, all contributors are expected to adhere to the [Code of Conduct](
 
 ### Open Development {#open-development}
 
-All work on React happens directly on [GitHub](https://github.com/NouKod-Haiti/noukod-haiti.github.io). Contributors send pull requests which go through the same review process.
+All work on this project happens directly on [GitHub](https://github.com/NouKod-Haiti/noukod-haiti.github.io). Contributors send pull requests which go through the same review process.
 
 ### Branch Organization {#branch-organization}
 
@@ -32,7 +32,7 @@ If you send a pull request, please do it against the `docs` branch. We maintain 
 
 This project follows [semantic versioning](https://semver.org/). We release patch versions for bugfixes, minor versions for new features, and major versions for any breaking changes. When we make breaking changes, we also introduce deprecation warnings in a minor version so that our users learn about the upcoming changes and migrate their code in advance.
 
-We tag every pull request with a label marking whether the change should go in the next [patch](https://github.com/facebook/react/pulls?q=is:open+is:pr+label:semver-patch), [minor](https://github.com/facebook/react/pulls?q=is:open+is:pr+label:semver-minor), or a [major](https://github.com/facebook/react/pulls?q=is:open+is:pr+label:semver-major) version. We release new patch versions every few weeks, minor versions every few months, and major versions one or two times a year.
+We tag every pull request with a label marking whether the change should go in the next [patch], [minor], or a [major] version. We release new patch versions every few weeks, minor versions every few months, and major versions one or two times a year.
 
 Every significant change is documented in the [changelog file](https://github.com/NouKod-Haiti/noukod-haiti.github.io/blob/master/CHANGELOG.md).
 
@@ -81,7 +81,7 @@ The core team is monitoring for pull requests. We will review your pull request 
 
 ### Development Workflow {#development-workflow}
 
-After cloning React, run `yarn` to fetch its dependencies.
+After cloning the project, run `yarn` to fetch its dependencies.
 Then, you can run several commands:
 
 * `yarn lint` checks the code style.
@@ -96,9 +96,6 @@ The easiest way to try your changes is to run `yarn start`.
 insert commands here
 ```
 
-Every time you run `yarn build` in the React folder, the updated versions will appear in your project's `node_modules`. You can then rebuild your project to try your changes.
-
-We still require that your pull request contains unit tests for any new functionality. This way we can ensure that we don't break your code in the future.
 
 ### Style Guide {#style-guide}
 
@@ -116,8 +113,7 @@ Many changes, including bug fixes and documentation improvements can be implemen
 
 Some changes though are "substantial", and we ask that these be put through a bit of a design process and produce a consensus among the core team.
 
-The "RFC" (request for comments) process is intended to provide a consistent and controlled path for new features to enter the project. You can contribute by visiting the [rfcs repository](https://github.com/reactjs/rfcs).
-
+The "RFC" (request for comments) process is intended to provide a consistent and controlled path for new features to enter the project.
 ### License {#license}
 
 By contributing to this doc, you agree that your contributions will be licensed under its MIT license.
