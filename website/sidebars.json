@@ -6,7 +6,10 @@
     ],
     "Getting Started": [
       "environment"
-    ],
+    ]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"],
     "Concepts": [
       "git",
       "ci"
@@ -16,8 +19,5 @@
       "react",
       "devops"
     ]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
   }
 }

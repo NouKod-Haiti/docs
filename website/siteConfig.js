@@ -16,7 +16,7 @@ const users = [
     // if it is not '/', like: '/test-site/img/image.jpg'.
     image: '/img/undraw_open_source.svg',
     infoLink: 'https://www.google.com',
-    pinned: true,
+    pinned: true
   },
   {
     caption: 'Client Y',
@@ -24,8 +24,8 @@ const users = [
     // if it is not '/', like: '/test-site/img/image.jpg'.
     image: '/img/undraw_open_source.svg',
     infoLink: 'https://www.google.com',
-    pinned: true,
-  },
+    pinned: true
+  }
 ];
 
 const siteConfig = {
@@ -46,11 +46,13 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'welcome', label: 'Docs'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
-    { href: 'https://github.com/NouKod-Haiti/noukod-haiti.github.io', label: 'GitHub' },
-
+    { doc: 'welcome', label: 'Docs' },
+    { page: 'docs/contributing', label: 'Help' },
+    { blog: true, label: 'Blog' },
+    {
+      href: 'https://github.com/NouKod-Haiti/noukod-haiti.github.io',
+      label: 'GitHub'
+    }
   ],
 
   // If you have users set above, you add it here:
@@ -59,12 +61,13 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/logo.png',
   footerIcon: 'img/logo.png',
-  favicon: 'https://noukod.com/wp-content/uploads/2017/03/cropped-Round-Version-PNG-150x150.png',
+  favicon:
+    'https://noukod.com/wp-content/uploads/2017/03/cropped-Round-Version-PNG-150x150.png',
 
   /* Colors for website */
   colors: {
     primaryColor: '#2f3133',
-    secondaryColor: '#61dafb',
+    secondaryColor: '#61dafb'
   },
 
   /* Custom fonts for website */
@@ -86,7 +89,7 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: 'default'
   },
 
   // Add custom scripts here that would be placed in <script> tags.
@@ -94,9 +97,10 @@ const siteConfig = {
     'https://buttons.github.io/buttons.js',
     'https://docusaurus.io/slash.js',
     {
-      src: 'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
-      async: true,
-    },
+      src:
+        'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
+      async: true
+    }
   ],
 
   // On page navigation for the current documentation page.
@@ -106,7 +110,8 @@ const siteConfig = {
 
   // Open Graph and Twitter card images.
   ogImage: 'https://noukod.com/wp-content/uploads/2017/11/NK-simple-logo-1.png',
-  twitterImage: 'https://noukod.com/wp-content/uploads/2017/11/NK-simple-logo-1.png',
+  twitterImage:
+    'https://noukod.com/wp-content/uploads/2017/11/NK-simple-logo-1.png',
 
   //Show documentation's last contributor's name.
   enableUpdateBy: true,
@@ -116,7 +121,7 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-    repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/noukod-haiti'
 };
 
 module.exports = siteConfig;
